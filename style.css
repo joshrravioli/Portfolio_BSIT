@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+html{
+    scroll-behavior: smooth;
+}
+body{
+    font-family: 'Montserrat', sans-serif;
+    background-color: #FCFBFA;
+    color:#1f1a14;
+    background: url(https://products.ls.graphics/mesh-gradients/images/44.-Green-Yellow_1.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+nav{
+    text-align: center;
+}
+nav ul li{
+    display: inline-flex; 
+    padding: 24px;
+}
+nav a {
+    text-decoration: none;
+    color:#1f1a14;
+    font-weight: 600;
+}
+.myInfo{
+    display: inline-block;
+    margin-top: 4%;
+    margin-left: 5%;
+}
+#topBar{
+    background-color: #d19c283a;
+    border-radius: 15px;
+}
+
+#topBar ul li img{
+    vertical-align: middle;
+    margin-right: 5px;
+}
+
+#topGreeting{
+    font-size: 48px;
+}
+
+Skills{
+    color: rgb(158, 71, 0);
+}
+Background{
+    color: rgb(158, 71, 0);
+}
+Contacts{
+    color: rgb(158, 71, 0);
+}
+Routine{
+    color: rgb(158, 71, 0);
+}
+footer{
+    margin-top: 15%;
+    margin-bottom: 2%;
+    font-size: small;
+    text-align: center;
+}
